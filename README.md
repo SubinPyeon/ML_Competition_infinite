@@ -10,8 +10,8 @@ https://colab.research.google.com/drive/1Seero1ir9mEzxt7-XIC6GFmgj2B2V1hh?hl=ko
 ![image](https://github.com/SubinPyeon/MachineLearning_Competition/assets/105070397/bdcdb251-15a0-45e0-aabc-ef870bee6992)
 
 ## 3. Caltech-256
-https://colab.research.google.com/drive/1jM6gPMzbO1QdnatyOYrwteqQ2wUN7abQ?usp=sharing
-![image](https://github.com/SubinPyeon/MachineLearning_Competition/assets/105070397/e4642c53-4c9d-4e05-a8fb-e41e14de9b4b)
+[https://colab.research.google.com/drive/1jM6gPMzbO1QdnatyOYrwteqQ2wUN7abQ?usp=sharing](https://colab.research.google.com/drive/11-PkrOOX9P8gDxuHvq3ZEgQyHGedQwOE#scrollTo=MytrkP-DClaA)
+![image](https://github.com/SubinPyeon/ML_Competition_infinite/assets/105070397/f24cc39a-73a3-480f-80c6-eaf0ef3e1019)
 
 ## H/W 사양
 - 모델명 QUANTUM-C9-2000
