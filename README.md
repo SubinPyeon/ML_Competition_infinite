@@ -1,8 +1,8 @@
 # MachineLearning_Competition (무한 epoch) 5조 수행 결과
 
 ## 1. Cifar-100
-https://colab.research.google.com/drive/1hovlw-7wK5zd_ObqeVhM6z755UG2_44r
-![image](https://github.com/SubinPyeon/MachineLearning_Competition/assets/105070397/d91f3643-193b-4a2c-ab8b-0269bd0f0c08)
+[https://colab.research.google.com/drive/1hovlw-7wK5zd_ObqeVhM6z755UG2_44r](https://colab.research.google.com/drive/13PsPt1k_tLOYKV7KE8lCIvCREHRUClFT#scrollTo=98dd4557)
+![image](https://github.com/SubinPyeon/ML_Competition_infinite/assets/105070397/745f1d89-ac44-4047-9582-4ab830ed5c3e)
 
 
 ## 2. Stanford Dogs
