@@ -7,8 +7,8 @@
 
 
 ## 2. Stanford Dogs
-https://colab.research.google.com/drive/1Seero1ir9mEzxt7-XIC6GFmgj2B2V1hh?hl=ko
-![image](https://github.com/SubinPyeon/MachineLearning_Competition/assets/105070397/bdcdb251-15a0-45e0-aabc-ef870bee6992)
+[https://colab.research.google.com/drive/1Seero1ir9mEzxt7-XIC6GFmgj2B2V1hh?hl=ko](https://colab.research.google.com/drive/15cGiGXI8YE444J6Rd0Z6hoJSgbqUBhsr#scrollTo=hXeFpH_i7pT2)
+![image](https://github.com/SubinPyeon/ML_Competition_infinite/assets/105070397/f18df9d7-d1a8-4c90-bd3d-19750e55ceee)
 
 ## 3. Caltech-256
 [https://colab.research.google.com/drive/1jM6gPMzbO1QdnatyOYrwteqQ2wUN7abQ?usp=sharing](https://colab.research.google.com/drive/11-PkrOOX9P8gDxuHvq3ZEgQyHGedQwOE#scrollTo=MytrkP-DClaA)
